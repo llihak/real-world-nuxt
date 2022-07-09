@@ -5,6 +5,8 @@
 > choose universal
 > choose content
 
+Still need to go through [the tailwlind install instructions](https://tailwindcss.com/docs/guides/nuxtjs)
+
 ## Build Setup
 
 ```bash
